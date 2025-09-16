@@ -204,10 +204,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 
 ---
-
-
-🌟 **Star this repo if you found it helpful!** 🌟
-
-**Visit [100jsprojects.com](https://100jsprojects.com) for more amazing projects!**
-
-</div>
