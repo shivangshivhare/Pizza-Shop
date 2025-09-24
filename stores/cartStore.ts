@@ -9,7 +9,7 @@ interface CartItem {
   quantity: number;
   image: string;
 }
-
+ 
 // Define the Zustand store interface
 interface CartState {
   cart: CartItem[];
