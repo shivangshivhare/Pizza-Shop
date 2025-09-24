@@ -4,7 +4,7 @@ import { persist } from 'zustand/middleware';
 // Define CartItem interface
 interface CartItem {
   id: number;
-  name: string;
+  name: string; 
   price: number;
   quantity: number;
   image: string;
